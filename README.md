@@ -9,7 +9,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>About</title>
+      <title>Ekspresi Universal</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -31,8 +31,9 @@
       <link rel="stylesoeet" href="css/owl.theme.default.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
    </head>
+
    <body>
-      <!--header section start -->
+      <!--Header section-->
       <div class="header_section">
          <div class="container-fluid">
             <div class="costum_header">
@@ -58,37 +59,157 @@
          </div>
       </div>
       <!-- header section end -->
+      <!-- banner section start -->
+      <div class="banner_section layout_padding">
+         <div class="container">
+            <div id="main_slider" class="carousel slide" data-ride="carousel">
+               <div class="carousel-inner">
+                  <div class="carousel-item active">
+                     <div class="row">
+                        <div class="col-md-6">
+                           <div class="banner_taital">
+                              <h1 class="banner_taital">Mahira Nurhaliza</h1>
+                              <p class="banner_text">Mahasiswi Teknik Informatika Politeknik Negeri Bandung</p>
+                           </div>
+                           <div class="btn_main">
+                              <div class="quote_bt active"><a href="about.html">Get to know Me</a></div>
+                           </div>
+                        </div>
+                        <div class="col-md-6">
+                           <div><img src="images/banner-img.png" class="banner_img"></div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="carousel-item">
+                     <div class="row">
+                        <div class="col-md-6">
+                           <div class="banner_taital">
+                              <h1 class="banner_taital">Eksploitasi Pikiran</h1>
+                              <p class="banner_text">Idemu terlalu dalam digali</p>
+                           </div>
+                           <div class="btn_main">
+                              <div class="quote_bt active"><a href="#">Baca</a></div>
+                           </div>
+                        </div>
+                        <div class="col-md-6">
+                           <div><img src="images/eksploitasipikiran.jpg" class="banner_img"></div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="carousel-item">
+                     <div class="row">
+                        <div class="col-md-6">
+                           <div class="banner_taital">
+                              <h1 class="banner_taital">Setiap Hari Itu Sama</h1>
+                              <p class="banner_text">Kriteria mengatakannya berbeda</p>
+                           </div>
+                           <div class="btn_main">
+                              <div class="quote_bt active"><a href="#">Baca</a></div>
+                           </div>
+                        </div>
+                        <div class="col-md-6">
+                           <div><img src="images/foto5.jpg" class="banner_img"></div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <a class="carousel-control-prev" href="#main_slider" role="button" data-slide="prev">
+               <i class="fa fa-arrow-left" aria-hidden="true"></i>
+               </a>
+               <a class="carousel-control-next" href="#main_slider" role="button" data-slide="next">
+               <i class="fa fa-arrow-right" aria-hidden="true"></i>
+               </a>
+            </div>
+         </div>
+      </div>
+      <!-- banner section end -->
+      
+      <!-- providing section start -->
+      <div class="providing_section layout_padding">
+         <div class="container">
+            <h1 class="services_taital">Coretan <span style="color: #0c426e">Kata</span></h1>
+         </div>
+      </div>
+      <div class="providing_section_2 layout_padding">
+         <div class="container">
+            <h2 class="clean_text">Ekspresi Universal</h2>
+            <p class="ipsum_text">Loving words since a kid, always write "reading" as a hobby, and collecting all good sentence I've ever found, made me believe that I like poem weather i read it or i write it. 
+               Having this page give me a space to write my questions, my thoughts, my stories into a form that I want.
+               And I know it would be my public diary.
+            </p>
+            <div class="quote_bt_1"><a href="#">Get A Quote</a></div>
+         </div>
+      </div>
+      <!-- providing section end -->
+
+      <!-- Writing section start -->
+      <div class="services_section layout_padding">
+         <div class="container">
+            <h1 class="services_taital">Coretan <span style="color: rgb(58, 148, 126)">Kata</span></h1>
+            <p class="services_text">--------</p>
+            <div class="services_section_2 layout_padding">
+               <div class="row">
+                  <div class="col-md-4 padding_right_0">
+                     <div class="services_box">
+                        <h4 class="express_text">Rapalan Malam</h4>
+                        <p class="lorem_text">Ketika lelap dihadang oleh gelap</p>
+                        <div class="seemore_bt"><a href="#">See More</a></div>
+                        <div><img src="images/foto11.jpg" class="image_1"></div>
+                     </div>
+                  </div>
+                  <div class="col-md-4 padding_0">
+                     <div class="services_box">
+                        <div><img src="images/foto10.jpg" class="image_1"></div>
+                        <h4 class="express_text">Rintihan Pikiran</h4>
+                        <p class="lorem_text">Pertanyaan yang berharap dijawab secara gampang dan gamblang</p>
+                        <div class="seemore_bt"><a href="#">See More</a></div>
+                     </div>
+                  </div>
+                  <div class="col-md-4 padding_left_0">
+                     <div class="services_box">
+                        <h4 class="express_text">Kilas Cerita</h4>
+                        <p class="lorem_text">Kisah yang dipotret dalam kata</p>
+                        <div class="seemore_bt"><a href="#">See More</a></div>
+                        <div><img src="images/foto9.jpg" class="image_1"></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- services section end -->
+
       <!-- choose section start -->
       <div class="choose_section layout_padding">
          <div class="container">
-            <h1 class="services_taital">Why <span style="color: #0c426e">Choose Us?</span></h1>
+            <h1 class="services_taital">title <span style="color: #0c426e">list</span></h1>
             <div class="choose_section_2 layout_padding">
                <div class="row">
                   <div class="col-md-4">
                      <div class="choose_box">
                         <div class="number_1">
                            <h4 class="number_text">01</h4>
-                           <h4 class="trusted_text">Trusted Services</h4>
+                           <h4 class="trusted_text">Gumam Malam</h4>
                         </div>
-                        <p class="dummy_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The  </p>
+                        <p class="dummy_text">Hal-hal yang mengenai lelap, dihadang oleh gelap</p>
                      </div>
                   </div>
                   <div class="col-md-4">
                      <div class="choose_box">
                         <div class="number_1">
                            <h4 class="number_text">02</h4>
-                           <h4 class="trusted_text">Talented Workers</h4>
+                           <h4 class="trusted_text">Rintihan Pikiran</h4>
                         </div>
-                        <p class="dummy_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The  </p>
+                        <p class="dummy_text">Pertanyaan yang berharap dijawab secara gampang dan gamblang</p>
                      </div>
                   </div>
                   <div class="col-md-4">
                      <div class="choose_box">
                         <div class="number_1">
                            <h4 class="number_text">03</h4>
-                           <h4 class="trusted_text">Organic Products</h4>
+                           <h4 class="trusted_text">Kilas Cerita</h4>
                         </div>
-                        <p class="dummy_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The  </p>
+                        <p class="dummy_text">Cerita yang terpotret dalam kata</p>
                      </div>
                   </div>
                </div>
@@ -96,6 +217,67 @@
          </div>
       </div>
       <!-- choose section end -->
+      <!-- testimonial section start -->
+      <div class="testimonial_section layout_padding">
+         <div class="container">
+            <h1 class="testimonial_taital">My Reviews</h1>
+            <div class="testimonial_section_2">
+               <div id="my_slider" class="carousel slide" data-ride="carousel">
+                  <div class="carousel-inner">
+                     <div class="carousel-item active">
+                        <div class="testimonial_box">
+                           <div class="tectimonial_mail">
+                              <div class="client_image_section">
+                                 <img src="images/client-img.png" class="client_img">
+                              </div>
+                              <div class="client_text_section">
+                                 <p class="testimonial_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that</p>
+                                 <h4 class="joech_text">Aroma Karsa</h4>
+                                 <p class="customer_text">Novel karya Dee lestari</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="carousel-item">
+                        <div class="testimonial_box">
+                           <div class="tectimonial_mail">
+                              <div class="client_image_section">
+                                 <img src="images/client-img.png" class="client_img">
+                              </div>
+                              <div class="client_text_section">
+                                 <p class="testimonial_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that</p>
+                                 <h4 class="joech_text">Lucy</h4>
+                                 <p class="customer_text">Film </p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="carousel-item">
+                        <div class="testimonial_box">
+                           <div class="tectimonial_mail">
+                              <div class="client_image_section">
+                                 <img src="images/client-img.png" class="client_img">
+                              </div>
+                              <div class="client_text_section">
+                                 <p class="testimonial_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that</p>
+                                 <h4 class="joech_text">Joech</h4>
+                                 <p class="customer_text">Customer</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <a class="carousel-control-prev" href="#my_slider" role="button" data-slide="prev">
+                  <i class="fa fa-arrow-left" aria-hidden="true"></i>
+                  </a>
+                  <a class="carousel-control-next" href="#my_slider" role="button" data-slide="next">
+                  <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                  </a>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- testimonial section end -->
       <!-- footer section start -->
       <div class="footer_section layout_padding margin_top_90">
          <div class="container">
